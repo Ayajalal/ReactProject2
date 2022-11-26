@@ -1,0 +1,33 @@
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.header{
+  height: 80px;
+  margin-left: 2.6vw;
+  margin-right: 2.6vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerLeft{
+  display: flex;
+}
+.headerRight{
+
+}
+#icon{
+  width: 7.68vw;
+  height: auto;
+}
+.left{
+  flex-direction: column;
+  width: 20vw;
+}
+.filters{
+  margin-left: 2.8vw;
+  margin-right: 2.8vw;
+}
+#createEvent{
+  background-color: #F12711;
+}
