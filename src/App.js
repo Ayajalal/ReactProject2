@@ -1,8 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Category from "./component/catagory";
+import Box from "./component/Box"
 function App() {
-  return <Category />;
+  return <Box />;
 }
 
 export default App;
